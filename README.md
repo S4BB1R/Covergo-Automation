@@ -39,7 +39,7 @@ npx playwright install
 ## 🚀 How to Run Tests
 Run all tests:
 ```bash
-ç
+npx playwright test  
 ```
 
 View HTML test report:
@@ -73,7 +73,7 @@ npx playwright show-report
 ---
 
 ## ✍️ Author & Maintainer
-- Ahona Afrin
+- Sabbir Ahmed
 
 For feedback or issues, please reach out via GitHub or email.
 
