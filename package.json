@@ -1,0 +1,20 @@
+{
+  "name": "covergo-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "## 📌 Overview This project demonstrates a complete automated test suite for [SauceDemo](https://www.saucedemo.com) using [Playwright](https://playwright.dev/) and the **Page Object Model (POM)** design pattern with **JavaScript**. It contains 10 modular test cases covering login, UI validations, cart behavior, and checkout flows.",
+  "dependencies": {
+    "playwright": "^1.52.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.17"
+  },
+  "directories": {
+    "test": "tests"
+  }
+}
